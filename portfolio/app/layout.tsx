@@ -27,7 +27,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} bg-gray_50 text-gray_950 relative` } > 
+        className={`${geistSans.variable}bg-gray_50 text-gray_950 relative pt-18 sm: pt-28 transition`} > 
         <div className="bg-light_pink absolute -top-[6rem] right-[11rem] h-[31.25rem] w-[31.25rem] 
         rounded-full  blur-[10rem] sm:w-[68.75rem]"></div>
         <div className="bg-light_blue absolute -top-[1rem] -left-[35rem] h-[31.25rem] w-[50rem] 
