@@ -25,6 +25,7 @@ export default {
     colors: {
       gray_50: '#f9fafb',
       gray_950: '#030712',
+      gray_500: '#6b7280',
       light_pink: '#fbe2e3',
       light_blue: '#dbd7fb',
       white: "#fff"
