@@ -22,15 +22,7 @@ export default {
       lg: '976px',
       xl: '1440px',
     },
-    colors: {
-      gray_50: '#f9fafb',
-      gray_200: '#e5e7eb',
-      gray_950: '#030712',
-      gray_500: '#6b7280',
-      light_pink: '#fbe2e3',
-      light_blue: '#dbd7fb',
-      white: "#fff"
-    },
+
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],
       serif: ['Merriweather', 'serif'],

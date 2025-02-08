@@ -46,7 +46,7 @@ export default function Intro() {
       transition={{
         delay: 0.1,
       }}>
-        <Link className="group bg-gray_950 text-white px-6 py-3 flex items-center gap-2 rounded-full outline-none hover:scale-110 focus:scale-110 focus:ring focus:outline-light_blue active:scale-105 transition" href="#contact">Contact me here 
+        <Link className="group bg-gray-950 text-white px-6 py-3 flex items-center gap-2 rounded-full outline-none hover:scale-110 focus:scale-110 focus:ring focus:outline-light_blue active:scale-105 transition" href="#contact">Contact me here 
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition"/> 
         </Link>
         <a className="group bg-white px-6 py-3 rounded-full flex gap-2 items-center outline-none hover:scale-110 focus:scale-110 focus:ring focus:outline-light_blue active:scale-105 transition cursor-pointer border border-light_blue" href="/Dilip_Teja_Resume.pdf" download>Download CV 

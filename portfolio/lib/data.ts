@@ -39,10 +39,13 @@ export const projectsData = [
         title: "Group chat System",
         description: "Distributed chat system. It features techniques like Eventual consistency, replication, Vector Timestamps",
         tags: ["Go", "gRPC", "Protocol Buffers", "Bi-directional streaming"],
-        imageURL:  white_image
+        imageURL:  msalogo
+    }
+    {
+        title: ""
     }
 
-] as const;
+]as const;
 
 export const experienceData = [
     {
